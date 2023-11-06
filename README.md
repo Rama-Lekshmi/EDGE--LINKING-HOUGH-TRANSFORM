@@ -37,6 +37,8 @@ Display the image found by the HoughLinesP() and end the program.
 ## Program:
 
 ```python
+## Developer name:Rama E. K. Lekshmi
+## Register no:212222240082
 
 # Read image and convert it to grayscale image:
 
